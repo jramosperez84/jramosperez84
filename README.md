@@ -7,3 +7,9 @@ Por otra parte, trato de complementar lo aprendido, lo hago en plataformas como 
 He tratado de aprender por mi cuenta Python, Django, Flask, JavaScript, Nodejs y React entre otras cosillas, unas con más éxito que otras. He creado con éxito proyectos en Django y algún CRUD con JavaScript y Angular.
 
 Aparte de la programación me interesa mucho la ciberseguridad, administración de servidores y redes. Desafortunadamente no me desenvuelvo mucho en estos campos. 
+
+---
+## Frameworks
+
+[badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+

@@ -4,7 +4,7 @@ Hola curiosos 👋, mi nombre es Jorge, actualmente estudio 📚 DAM (Desarrollo
 
 Actualmente, estudio oficialmente Sistemas, Java, C++, Programación orientada a objetos, Bases de datos (por ahora MySQL), Lenguajes de marcas como xml, html y css.
 
-Por otra parte, trato de complementar lo aprendido, en platafornas online, documentaciones oficiales, Youtube, etc.
+Por otra parte, trato de complementar lo aprendido, en platafornas online, documentaciones oficiales, Youtube, etc. Todo lo que voy aprendiendo lo añado a mis [notas](https://github.com/jramosperez84/Notas/blob/main/README.md) personales.
 
 He tratado de aprender por mi cuenta Python, Django, Flask, JavaScript, Nodejs y React entre otras cosillas, unas con más éxito que otras. He creado con éxito proyectos en Django y algún CRUD con JavaScript y Angular.
 

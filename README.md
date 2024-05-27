@@ -2,11 +2,11 @@
 
 Hola curiosos 👋, mi nombre es Jorge, actualmente estudio 📚 DAM (Desarrollo de Aplicaciones Multiplataforma) en el centro de enseñanza 🏫 IFP Innovación en Formación Profesional y lo hago a distancia porque debo compatibilizarlo con mi trabajo.
 
-Actualmente, estudio oficialmente Sistemas, Java, C++, Programación orientada a objetos, Bases de datos (por ahora MySQL), Lenguajes de marcas como xml, html y css.
+Oficialmente estudio Sistemas, Java, C++, Programación orientada a objetos, Bases de datos (por ahora MySQL), Lenguajes de marcas como xml, html y css.
 
-Por otra parte, trato de complementar lo aprendido, en platafornas online, documentaciones oficiales, Youtube, etc. Todo lo que voy aprendiendo lo añado a mis [notas](https://github.com/jramosperez84/Notas/blob/main/README.md) personales.
+Por otra parte, trato de complementar lo aprendido, en plataformas online, documentaciones oficiales, Youtube, etc. Todo lo que voy aprendiendo lo añado [notas](https://github.com/jramosperez84/Notas/blob/main/README.md) personales.
 
-He tratado de aprender por mi cuenta Python, Django, Flask, JavaScript, Nodejs y React entre otras cosillas, unas con más éxito que otras. He creado con éxito proyectos en Django y algún CRUD con JavaScript y Angular.
+He tratado de aprender por mi cuenta Python, Django, Flask, JavaScript, Nodejs y React entre otras cosillas, unas con mejores resultados que otras. He creado con éxito proyectos en Django y algún CRUD con JavaScript y Angular.
 
 Aparte de la programación me interesa mucho la ciberseguridad, administración de servidores y redes. Desafortunadamente no me desenvuelvo mucho en estos campos.
 

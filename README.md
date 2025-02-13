@@ -1,14 +1,20 @@
 # Bienvenidos
 
-Hola curiosos 👋, mi nombre es Jorge, actualmente estudio 📚 DAM (Desarrollo de Aplicaciones Multiplataforma) en el centro de enseñanza 🏫 IFP Innovación en Formación Profesional y lo hago a distancia porque debo compatibilizarlo con mi trabajo.
+## Sobre mí
 
-Oficialmente estudio Sistemas, Java, C++, Programación orientada a objetos, Bases de datos (por ahora MySQL), Lenguajes de marcas como xml, html y css.
+Hola, soy Jorge, un desarrollador junior full stack especializado en ASP.NET. También trabajo con WordPress, JavaScript, CSS, Bootstrap y PHP, y tengo experiencia en desarrollo Android utilizando Kotlin y Jetpack Compose.
 
-Por otra parte, trato de complementar lo aprendido, en plataformas online, documentaciones oficiales, Youtube, etc. Todo lo que voy aprendiendo lo añado [notas](https://github.com/jramosperez84/Notas/blob/main/README.md) personales.
+## Educación
 
-He tratado de aprender por mi cuenta Python, Django, Flask, JavaScript, Nodejs y React entre otras cosillas, unas con mejores resultados que otras. He creado con éxito proyectos en Django y algún CRUD con JavaScript y Angular.
+He completado mis estudios en **DAM (Desarrollo de Aplicaciones Multiplataforma)** en el centro de enseñanza **IFP Innovación en Formación Profesional**, lo que me ha proporcionado una sólida base en sistemas, Java, C++, programación orientada a objetos y bases de datos (especialmente MySQL).
 
-Aparte de la programación me interesa mucho la ciberseguridad, administración de servidores y redes. Desafortunadamente no me desenvuelvo mucho en estos campos.
+## Experiencia
+
+He trabajado en proyectos utilizando Python, Django, Flask, JavaScript, Node.js y React, logrando crear aplicaciones exitosas en Django y CRUDs con JavaScript y Angular. Mis notas y aprendizajes están disponibles [aquí](https://github.com/jramosperez84/Notas/blob/main/README.md).
+
+## Intereses
+
+Me interesa la ciberseguridad, la administración de servidores y redes, y estoy en proceso de profundizar en estos campos.
 
 ---
 
